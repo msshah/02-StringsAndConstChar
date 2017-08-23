@@ -19,7 +19,8 @@
   
   #include <stdio.h>
   
-  int main(void) {
+  int main(void) 
+  {
   
   	const char string[] = "This is a constant character string. It works the same as String in Java.\n";
   	

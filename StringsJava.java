@@ -18,9 +18,11 @@
 	*
 	*
  */
-class StringsJava {
+class StringsJava 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         String sHelloWorldString = "This is a string using String Object in Java.";
         
         System.out.println(sHelloWorldString);

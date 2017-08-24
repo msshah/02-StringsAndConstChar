@@ -7,7 +7,7 @@
 	* Use the command line to compile and run this program. It'll run in any IDE but 
 	* using command line is preferred.
 	*
-	* How to compile : Open Command Prompt on Windows or Terminal on Mac OS/Linux/Unix
+	* How to compile : Open Terminal on Mac OS X/Linux/Unix
 	* then navigate to the directory of this program and type the following command
 	*
 	* gcc StringsC.c -o StringsC

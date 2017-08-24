@@ -1,5 +1,5 @@
 /**
-  	* Copyright (c) 2016 Mian Safyan Shah
+  	* Copyright (c) 2017 Mian Safyan Shah
   	*
   	* WRITTEN BY		: MIAN SAFYAN SHAH
   	* CONTACT		: safyanshah@live.com

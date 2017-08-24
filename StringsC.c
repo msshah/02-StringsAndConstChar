@@ -1,6 +1,8 @@
 /**
-	* Written by Mian Safyan Shah
-	* Contact : safyanshah@live.com
+  	* Copyright (c) 2016 Mian Safyan Shah
+  	*
+  	* WRITTEN BY		: MIAN SAFYAN SHAH
+  	* CONTACT		: safyanshah@live.com
 	*
 	* This program demonstrates const char in C
 	*
